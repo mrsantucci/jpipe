@@ -1,0 +1,15 @@
+{
+  "staging": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-jpipe-staging-235510-authRole",
+      "UnauthRoleArn": "arn:aws:iam::417098016892:role/amplify-jpipe-staging-235510-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::417098016892:role/amplify-jpipe-staging-235510-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-jpipe-staging-235510-deployment",
+      "UnauthRoleName": "amplify-jpipe-staging-235510-unauthRole",
+      "StackName": "amplify-jpipe-staging-235510",
+      "StackId": "arn:aws:cloudformation:us-east-1:417098016892:stack/amplify-jpipe-staging-235510/05ddb0c0-233f-11ed-a782-1283f7be93e7",
+      "AmplifyAppId": "d3s4q8a1rj2ddq"
+    }
+  }
+}
