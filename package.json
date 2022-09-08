@@ -9,6 +9,7 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@aws-amplify/ui-react": "^3.5.1",
     "@types/d3-selection": "^3.0.3",
     "aws-amplify": "^4.3.34",
     "d3-selection": "^3.0.0",
