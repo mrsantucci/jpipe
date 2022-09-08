@@ -6,7 +6,6 @@ import {
 function Home({signOut, user})  {
   return (
     <>
-    <HeroLayout3 />
     <h1>Hello {user.username}</h1>
     <button onClick={signOut}>Sign out</button>
     </>

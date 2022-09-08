@@ -22,7 +22,7 @@
     "next-env.d.ts",
     "**/*.ts",
     "**/*.tsx"
-, "pages/posts/[id].js"  ],
+, "pages/posts/[id].js", "components/Rectangle/Rectangle.js", "components/index.js"  ],
   "exclude": [
     "node_modules"
   ]
