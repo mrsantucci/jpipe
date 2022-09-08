@@ -10,6 +10,11 @@
       "StackName": "amplify-jpipe-staging-235510",
       "StackId": "arn:aws:cloudformation:us-east-1:417098016892:stack/amplify-jpipe-staging-235510/05ddb0c0-233f-11ed-a782-1283f7be93e7",
       "AmplifyAppId": "d3s4q8a1rj2ddq"
+    },
+    "categories": {
+      "auth": {
+        "jpipe": {}
+      }
     }
   }
 }
